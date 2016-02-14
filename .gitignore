@@ -1,0 +1,34 @@
+.gradle/
+.idea/
+.navigation/
+.settings/
+
+build/
+androidbillinglibrary/build/
+actionbarsherlock/build/
+
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Windows thumbnail db
+Thumbs.db
+
+# OSX files
+.DS_Store
+
+# Eclipse project files
+.classpath
+.project
+
+# Android Studio
+.idea
+*.iml
+
+# NPM modules
+scripts/deployment/node_modules
+
+# Proxy settings
+/gradle.properties
